@@ -144,3 +144,7 @@ cython_debug/
 !/logs/
 !/output/
 .idea
+
+data/*
+checkpoint/*
+ntu-biclass
